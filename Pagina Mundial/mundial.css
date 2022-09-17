@@ -1,0 +1,85 @@
+* {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#fond{
+    background-color: #ffd4d4;
+
+}
+#numb1 {
+    width: 50px;
+}
+#numb2 {
+    width: 50px;
+}
+#numb3 {
+    width: 50px;
+}
+#numb4 {
+    width: 50px;
+}
+#numb5 {
+    width: 50px;
+}
+#numb6 {
+    width: 50px;
+}
+#numb7 {
+    width: 50px;
+}
+#numb8 {
+    width: 50px;
+}
+#numb9 {
+    width: 50px;
+}
+#numb10 {
+    width: 50px;
+}
+#numb11 {
+    width: 50px;
+}
+#numb12 {
+    width: 50px;
+}
+#MCOL1 {
+    border: 2px solid black;
+    padding: 25px;
+    height: 212px;
+   
+
+}
+#header {
+    background-color: #be9b9f;
+    border: 2px solid black;
+    color: rgb(1, 2, 3);
+}
+#eq1 {
+    background-color:#be8686;
+    border: 2px solid black;
+}
+#eq2 {
+    background-color:#be8686;
+    border: 2px solid black;
+}
+#eq3 {
+    background-color:#be8686;
+    border: 2px solid black;
+}
+#eq4 {
+    background-color:#be8686;
+    border: 2px solid black;
+
+}
+#bodier {
+    border: 2px black solid;
+}
+#form {
+    border: 2px solid black;
+}
+#tex4 {
+    margin-right: 38px;
+}
+#tex1 {
+    margin-left: 22px;
+}
